@@ -3,6 +3,7 @@
 I red team large language models. I look for the prompt injections, jailbreaks and data-leak paths in AI systems before real attackers do, and I turn what I find into repeatable tests.
 
 - **Now:** AI security and LLM red teaming on an AI security team in Buenos Aires
+- **Building:** [Cellblock](https://github.com/samuelsojo/cellblock) - a deliberately vulnerable LLM lab, one flawed cell at a time. Break it. Then fix it.
 - **Explaining:** [Jailbroken](https://youtube.com/@jailbrokenai) - AI security news, concepts, attacks and defenses, in English and Spanish
 - **Studying:** Computer Science at the University of Buenos Aires (UBA)
 
