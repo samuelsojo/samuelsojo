@@ -10,4 +10,4 @@ I red team large language models. I look for the prompt injections, jailbreaks a
 
 **How I work:** AI-native. I build with AI tooling, own the critical paths, and back what matters with my own regression tests.
 
-[samuelsojo.com](https://samuelsojo.com) - [LinkedIn](https://linkedin.com/in/samuel-sojo-b96626246) - sam@samuelsojo.com
+[samuelsojo.com](https://samuelsojo.com) - [LinkedIn](https://linkedin.com/in/samuel-sojo) - sam@samuelsojo.com
